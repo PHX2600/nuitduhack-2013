@@ -1,0 +1,20 @@
+dharma initiation letter > secret code, password to zip file, login to VM
+
+awplmntrdest
+
+decrypt user account via shadow file
+password:  victoria
+password is salt for stego
+
+wallpaper with stego
+network ifs with hex code
+
+
+combined code is hex key: 303030302a5e5468626a64733775484a627364687739696a
+xLATE TO ASCII:  0000*^Thbjds7uHJbsdhw9ijskidjkiw2w
+
+ascii code is key to encrypted hash
+That's why the Sox will never win the series!!
+
+U2FsdGVkX186XwRAHFsQqV+pk0Z1kobUtfuxqmnbt9igmGrJtEhEmPawI7yLjRhw
+JVcRRM10vb0ghBxT4ZYAuw==
